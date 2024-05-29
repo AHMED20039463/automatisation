@@ -1,0 +1,15 @@
+Package: automatisation
+Type: Package
+Title: Automatisation base EHCVM
+Version: 0.1.0
+Author: Ahmadou NIASS
+Maintainer: Ahmadou NIASS <ahmadouniass2@gmail.com>
+Description: Ce package permet de gerer de manière automatique certaines taches concernant le traitement des differentes bases de l'EHCVM.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  haven,
+  readxl,
+  dplyr
+RoxygenNote: 7.3.1
